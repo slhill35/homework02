@@ -12,6 +12,7 @@ h1{
 h2{
     font-size: 30px;
     text-shadow: 5px 5px 2px #808080;
+    
 }
 
 p{
@@ -20,7 +21,7 @@ p{
 }
 
 img{
-    display: black;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 525px;
